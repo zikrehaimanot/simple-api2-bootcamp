@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+body{
+  background-image: url(background.jpg);
+}
+.fav{
+  height: 275px;
+  width: 30%;
+  border: 2px solid black;
+
+}
+p{
+  font-size: 30px;
+  color: white;
+}
+
+button{
+  font-size: 30px;
+}
+
+img{
+  border: 2px solid black;
+  width: 30%;
+  height: 275px;
+}
